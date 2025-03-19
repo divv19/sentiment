@@ -1,0 +1,6 @@
+gradio==4.16.0
+vaderSentiment==3.3.2
+pandas==2.1.4
+matplotlib==3.8.2
+nltk==3.8.1
+plotly==5.18.0
